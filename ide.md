@@ -26,3 +26,4 @@ https://www.w3schools.com/python/python_intro.asp
 https://www.tutorialspoint.com/unix_commands/gzip.htm
 
 https://masteringemacs.org/reading-guide
+https://dev.to/thefern/20-vim-shortcuts-to-make-life-easier-44hm
