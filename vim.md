@@ -2,6 +2,7 @@
 ## nerdtree
 
 `git clone https://github.com/preservim/nerdtree.git ~/.vim/pack/vendor/start/nerdtree
+
 vim -u NONE -c "helptags ~/.vim/pack/vendor/start/nerdtree/doc" -c q`
 
     set t_Co=256   " This is may or may not needed.
